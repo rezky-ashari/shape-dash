@@ -2,7 +2,7 @@
 
 A high-speed, geometry-based endless runner built with Phaser 3. Dash through obstacles, switch forms, and aim for the high score!
 
-![Gameplay Demo](assets/gameplay_placeholder.gif)
+![Gameplay Demo](assets/preview.gif)
 
 ## 🎮 Game Overview
 
