@@ -58,3 +58,25 @@ Control a shapeshifting cube (or sphere... or triangle!) and navigate through a 
 ## License
 
 MIT
+
+## 🚀 Deployment (GitHub Pages)
+
+This project is configured for easy deployment to GitHub Pages.
+
+1.  **Initialize Git** (if not done):
+    ```bash
+    git init
+    git add .
+    git commit -m "Initial commit"
+    ```
+2.  **Create a Repository** on GitHub.
+3.  **Link Remote**:
+    ```bash
+    git remote add origin https://github.com/YOUR_USERNAME/shape-dash.git
+    ```
+4.  **Deploy**:
+    ```bash
+    npm run deploy
+    ```
+    This command will automatically build the project and push the `dist` folder to a `gh-pages` branch on your repository.
+4.  **Enable Pages**: Go to your GitHub Repo Settings -> Pages -> Source, and ensure it is serving from the `gh-pages` branch.
